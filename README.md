@@ -1,5 +1,7 @@
 # pcNN_solid
-VASP version of pcNN XC functional. This add-on is available only to owners of a valid VASP license.
+Add-on to install pcNN XC functional into VASP source code. 
+
+This add-on is available only to owners of a valid VASP license.
 
 
 ## requirements
