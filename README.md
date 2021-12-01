@@ -1,5 +1,5 @@
 # pcNN_solid
-VASP version of pcNN XC functional. This add-on is only available to owners of a valid VASP license.
+VASP version of pcNN XC functional. This add-on is available only to owners of a valid VASP license.
 
 
 ## requirements
@@ -34,10 +34,10 @@ PyArmor
 This add-on is distributed under an agreement from VASP Software GmbH.  
 
 - This add-on comes without any waranty.  
-- Commercial use and patent use are prohibited.
 - If the add-on is modified by inclusion of additional source code lines of the Add-on to the VASP software code, 
 the developer must send the revised version of the add-on to VASP Software GmbH for further review.
 
+See 
 
 ## Citing this XC functinoal
 @misc{nagai2021machinelearningbased,
