@@ -37,7 +37,6 @@ This add-on is distributed under an agreement from VASP Software GmbH.
 - If the add-on is modified by inclusion of additional source code lines of the Add-on to the VASP software code, 
 the developer must send the revised version of the add-on to VASP Software GmbH for further review.
 
-See 
 
 ## Citing this XC functinoal
 @misc{nagai2021machinelearningbased,
