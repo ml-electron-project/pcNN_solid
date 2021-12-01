@@ -30,7 +30,7 @@ PyArmor
 2. Add (or modify) the keyword "METAGGA = NNMGGA" to the INCAR.
 3. Run the calculation with the VASP program compiled in the Installation section.
 
-## License
+## Notification
 This add-on is distributed under an agreement from VASP Software GmbH.  
 
 - This add-on comes without any waranty.  
