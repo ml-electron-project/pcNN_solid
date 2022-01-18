@@ -7,7 +7,7 @@ This add-on is available only to owners of a valid VASP license.
 ## requirements
 VASP 5.4.4 with source code (It does not work with VASP 6.)  
 Python3  
-PyArmor
+PyArmor  
 
 
 ## Installation
@@ -29,8 +29,8 @@ PyArmor
                 ...
 ```
 
-2. Add (or modify) the keyword "METAGGA = NNMGGA" to the INCAR.
-3. Run the calculation with the VASP program compiled in the Installation section.
+2. Add (or modify) keyword "METAGGA = NNMGGA" to INCAR.
+3. Run your calculation with the compiled VASP.
 
 
 ## Citing this XC functinoal
